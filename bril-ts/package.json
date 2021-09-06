@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@types/node": "^11.13.5",
-    "typescript": "^3.4.3"
+    "typescript": "^3.9.10",
+    "yarn": "^1.22.11"
   }
 }
